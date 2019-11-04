@@ -1,0 +1,6 @@
+Links that don't work
+https://www.codot.gov/business/bidding/documents/Prequalified%20Contractors/at_download/file - 403 error
+https://www.forsythco.com/Departments-Offices/Planning-Community-Development/Business-License/New-Business-Listings - Weird file system and inconsistent naming scheme
+https://azdot.gov/business/ContractsandSpecifications/PrequalifiedContractors - Results split over multiple pages, not HTML or link based
+https://www.bendoregon.gov/government/departments/community-development/private-development-engineering-division/pre-qualified-program/approved-contractors-list - Only contains type of work (no meaningful information)
+//http://www.savannahga.gov/documentcenter - No updated contractor information
