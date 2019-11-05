@@ -12,3 +12,9 @@ A scraper I built for https://www.flipkart.com, collects info based on your sear
 
 # GOVSUDS
 "GOVernment SUrplus Data Scraper". In August 2019 I began to look into government surplus sites, and it became a hobby to find the weirdest, cheapest things on various surplus auction sites. Eventually I decided to create a scraper that would search most major government surplus auction sites and summarize search results in a CSV. I only finished https://GovDeals.com before I lost interest, sadly. Might continue building this one later.
+
+# HAR
+Scraper for https://HAR.com, this is for real estate market analysis. One of my first Python scrapers. Pulls information about property and houses, exports it to CSV format.
+
+# Science Bowl Bot
+I recently joined my school's Science Bowl Team, however we have a hard time getting everybody to come to the meetings due to scheduling conflicts. So my friends and I set up a Discord server so we could do practice contests remotely. And in order to not have to banish somebody to the position of moderator during these practice competitions, we decided to write a Discord bot that would act as our moderator. My duty for the bot was to pull Science Bowl questions from the available list online and format them appropriately for the bot to interpret, because I already have extensive history with scraping. The project is almost complete, and while we may not get to utilize it to our fullest potential, we look forward to passing it on to our successors. This project was one of my first team projects.
