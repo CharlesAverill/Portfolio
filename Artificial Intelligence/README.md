@@ -6,5 +6,8 @@ CALIPSO is an early project that I worked on, with the goal of classifying songs
 # Genetic Programming
 Very basic genetic stuff, I didn't enjoy the topic so I ceased progress on these
 
+# INSERTER
+My very first handwritten model. I used scikit-learn and the randomforestregressor to predict current solar irradiance based on temperature, humidity, time, etc. Very useful for knowing when to activate your solar panels.
+
 # Solomon
 Nothing in here for now; this will eventually (hopefully) be a multi-module AI that will replicate my personality. Keeping it private for now.
