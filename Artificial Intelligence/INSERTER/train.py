@@ -1,3 +1,8 @@
+"""
+Author: Matthew Charles Averill
+My first handwritten ML model. Very simple, just some regression. But I'm very proud of it, and this project fulfilled a goal I've had for a very long time
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
